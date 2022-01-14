@@ -1,0 +1,5 @@
+number1=int(input("enter first number?\n"))
+number2=int(input("enter second number?\n"))
+number3=int(input("enter third number?\n"))
+average=round((number1+number2 +number3)/3,2)
+print(f"average of the three numbers is:\n{average} ")
